@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Francis
-- 👀 I use to work as an Engineer in China for over 10 years.
+- 👀 I use to work as an Engineer in China for over 10 years. I have a wide range of working experience in software engineering: from testing to data warehouse to data mining to machine learning.
 - 🌱 Now I came to learn Machine Learning and Artificial Intelligence in Georgian College in Canada
 
 <!---
